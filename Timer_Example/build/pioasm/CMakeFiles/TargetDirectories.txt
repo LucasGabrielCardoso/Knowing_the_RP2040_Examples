@@ -1,3 +1,0 @@
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/pioasm/CMakeFiles/pioasm.dir
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/pioasm/CMakeFiles/edit_cache.dir
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/pioasm/CMakeFiles/rebuild_cache.dir

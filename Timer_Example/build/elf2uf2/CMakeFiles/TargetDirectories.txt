@@ -1,5 +1,0 @@
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/elf2uf2/CMakeFiles/elf2uf2.dir
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/elf2uf2/CMakeFiles/edit_cache.dir
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/elf2uf2/CMakeFiles/rebuild_cache.dir
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
-/home/cardoso/Documents/RP2040_Examples/Timer_Example/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
